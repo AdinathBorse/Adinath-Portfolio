@@ -5,8 +5,8 @@ export default function ExtraCurricular() {
     <div className={styles.pageContainer}>
       <h1>Extra Curricular Activities</h1>
       <ul>
-        <li>Football Team Captain</li>
-        <li>Volunteer - NGO</li>
+        <li>Organizing school and collage events</li>
+        <li>Volunteer work and social services</li>
       </ul>
     </div>
   );

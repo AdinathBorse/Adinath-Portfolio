@@ -5,8 +5,8 @@ export default function Achievements() {
     <div className={styles.pageContainer}>
       <h1>Achievements</h1>
       <ul>
-        <li>Winner - Coding Hackathon 2024</li>
-        <li>Top 10 - National Project Expo</li>
+        <li></li>
+        <li></li>
       </ul>
     </div>
   );

@@ -7,7 +7,7 @@ export default function Projects() {
       <ul>
         <li>Amazon Clone</li>
         <li>Portfolio Website</li>
-        <li>Weather App</li>
+        <li></li>
       </ul>
     </div>
   );
